@@ -1,0 +1,33 @@
+{
+  "name": "projectmanager",
+  "version": "1.0.0",
+  "description": "A project that sets up skeleton code",
+  "preferGlobal": true,
+
+  "main": "./lib/prompt.js",
+  "bin": {
+    "projectmanager": "./.bin/index.js"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "project",
+    "setup"
+  ],
+  "author": "JosephCodemard",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.0.0",
+    "https": "^1.0.0",
+    "inquirer": "^7.3.3",
+    "inquirer-autocomplete-prompt": "^1.0.2",
+    "lodash": "^4.17.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosephCodemard/Project-Manager"
+  }
+}
