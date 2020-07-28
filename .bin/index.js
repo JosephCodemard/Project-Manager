@@ -14,7 +14,7 @@ const help = () => {
     console.log(" `projectmanager`")
     console.log("flags: ")
     console.log("   --default | -d   ->  run with default configurations")
-    console.log("   --help | -h      -> open help ")
+    console.log("   --help | -h      ->  open help ")
 
     console.log("see https://github.com/JosephCodemard/Project-Manager")
 }
