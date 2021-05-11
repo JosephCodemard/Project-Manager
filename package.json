@@ -21,7 +21,7 @@
     "https": "^1.0.0",
     "inquirer": "^7.3.3",
     "inquirer-autocomplete-prompt": "^1.0.2",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "repository": {
     "type": "git",
